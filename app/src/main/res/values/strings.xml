@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CircuitGraph</string>
+    <string name="tab_workbench">Graph</string>
+    <string name="tab_library">Library</string>
+    <string name="tab_analysis">SAT &amp; Props</string>
+    <string name="tab_transforms">Tx &amp; Code</string>
+    <string name="action_simulate">Simulate</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_add_node">Add Node</string>
+    <string name="action_export">Export</string>
+    <string name="action_import">Import Netlist</string>
+</resources>

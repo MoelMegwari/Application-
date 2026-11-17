@@ -1,0 +1,8 @@
+{
+  "name": "CircuitGraph",
+  "description": "Boolean circuit graph modeling, Verilog/Bench netlist parsing, SAT/model-counting analysis, and interactive logic simulation for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
